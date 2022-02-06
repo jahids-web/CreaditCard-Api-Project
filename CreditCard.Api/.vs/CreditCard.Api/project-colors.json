@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0272f262-400d-4856-8573-d08e0be392b4": {
+      "ProjectGuid": "0272f262-400d-4856-8573-d08e0be392b4",
+      "DisplayName": "CreditCard.Api",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
