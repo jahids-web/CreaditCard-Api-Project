@@ -9319,11 +9319,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\C#\\Asp.Net-WebApi-Project\\CreditCard.Api\\CreditCard.Api\\CreditCard.Api.csproj",
+      "projectUniqueName": "G:\\C#\\CreaditCard-Api-Project\\CreditCard.Api\\CreditCard.Api\\CreditCard.Api.csproj",
       "projectName": "CreditCard.Api",
-      "projectPath": "G:\\C#\\Asp.Net-WebApi-Project\\CreditCard.Api\\CreditCard.Api\\CreditCard.Api.csproj",
+      "projectPath": "G:\\C#\\CreaditCard-Api-Project\\CreditCard.Api\\CreditCard.Api\\CreditCard.Api.csproj",
       "packagesPath": "C:\\Users\\Jahid Uddin\\.nuget\\packages\\",
-      "outputPath": "G:\\C#\\Asp.Net-WebApi-Project\\CreditCard.Api\\CreditCard.Api\\obj\\",
+      "outputPath": "G:\\C#\\CreaditCard-Api-Project\\CreditCard.Api\\CreditCard.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jahid Uddin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9397,7 +9397,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
