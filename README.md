@@ -1,7 +1,7 @@
 # CreaditCard-Api
 Firstly, clone the project-
 ```
-(https://github.com/jahids-web/CreaditCard-Api-Project.git)
+https://github.com/jahids-web/CreaditCard-Api-Project.git
 ```
 Secondly, Open the project in Visual Studio by running the `CreditCard.Api.sln` solution file - 
 ```
