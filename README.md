@@ -21,7 +21,7 @@ in the `Project Manager Console` in Visual Studio.
 dotnet ef database update -p .\Applications\CreditCard.Api -c PaymentDetailContext
 ```
 
-This will create a database named `HrDatabase` in your SQL Server 
+This will create a database named `CreditCard.API` in your SQL Server 
 (actually SSMS) and also the table(s) accordingly.
 
 ⚠️ **Your must-have `SQL Server and `SQL Server Management Studio` 
