@@ -42,6 +42,7 @@ accordingly to your machine configuration -
 You may change the `Server` value according to your configuration.
 ## Install
 npm install -g @angular/cli@13
+And Download
 https://nodejs.org/en
 
 
